@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "rest api with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farzad-Jalali/nodejs-api.git"
+  },
+  "keywords": [
+    "learn",
+    "node",
+    "js",
+    "api"
+  ],
+  "author": "Farzad Jalali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Farzad-Jalali/nodejs-api/issues"
+  },
+  "homepage": "https://github.com/Farzad-Jalali/nodejs-api#readme"
+}
